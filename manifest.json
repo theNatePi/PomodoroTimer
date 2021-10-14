@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+
+  "name": "Pomodoro Timer \uD83C\uDF45",
+  "description": "A Pomodoro timer to keep you on task while studying\nhttps://github.com/theNatePi/PomodoroTimer",
+  "version": "1.0",
+
+  "permissions": [
+    "notifications",
+    "activeTab",
+    "scripting"
+  ],
+
+  "action": {
+    "default_popup": "PomodoroTimer.html"
+  }
+}

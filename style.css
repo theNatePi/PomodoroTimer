@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #c42b29;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.startButton {
+    background-color: #d88268;
+    border: none;
+    color: #270f36;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Heebo', sans-serif;
+    font-size: 40px;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    position: center;
+}
+
+.startButton:hover {
+    background-color: #fcc3a3;
+}
+
+.subButton {
+    background-color: #d66b55;
+    border: none;
+    color: #270f36;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Heebo', sans-serif;
+    font-size: 20px;
+    height: 50px;
+    width: 80px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: center;
+}
+
+.subButton:hover {
+    background-color: #d88268;
+}
+
+.howToUse {
+    margin-top: 15px;
+    padding: 0;
+    width: 230px;
+    display: inline-block;
+    line-height: 35px;
+    font-family: 'Heebo', sans-serif;
+}
+
+.title {
+    color: #e08d7b;
+    font-size: 30px;
+    position: center;
+}
+
+.name {
+    font-family: 'Heebo', cursive;
+    margin-top: 15px;
+    color: #e08d7b;
+    font-size: 30px;
+    position: center;
+    letter-spacing: 2px;
+}
+
+.info {
+    margin-top: 10px;
+    color: #d88268;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+    line-height: 20px;
+    overflow: scroll;
+}
