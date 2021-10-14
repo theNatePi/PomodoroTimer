@@ -2,8 +2,9 @@
 # Project Introduction 
 
 The Pomodoro Timer is a time management timer developed to keep people on task. The Pomodoro (Italian for tomato) technique was created by Francesco Cirillo and this chrome extension allows you to use the timer directly in your browser!
+Version 1.0
 
-# Using The Timer 
+# Using The Timer  
 
 To use the timer, install it first (instructions below) and then click on the extensions button in Google Chrome.
 Click on the "Pomodoro Timer" extension and click "Set Time".
