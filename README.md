@@ -16,7 +16,15 @@ The timer will now run and remind you with page alerts when to take a break and 
 
 To stop the timer or edit the time use the corresponding buttons in the extension. 
 
+The timer only alerts on one page at a time but will run in the background if you click off.
+
+# Technologies Used
+
+JavaScript
+HTML/CSS
+Google Chrome DevTools and JavaScript-Script Injection
+
 # Installing The Extension
 
-To use in a Chrome Extension, put all of the files here in a folder. In Google Chrome, go to chrome://extensions/. Select "Load Unpacked" and select the folder. The extension will then be available to use on a page. When on a page, go to the extension button in the top to find the timer. 
+To use in a Chrome Extension, put all of the files here in a folder. In Google Chrome, go to chrome://extensions/. Turn on "Developer Mode" at the top right. Select "Load Unpacked" and select the folder. The extension will then be available to use on a page. When on a page, go to the extension button at the top to find the timer. 
 
