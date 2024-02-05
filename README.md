@@ -24,6 +24,9 @@ JavaScript
 HTML/CSS
 Google Chrome DevTools and JavaScript-Script Injection
 
+# Images
+<img width="297" alt="image" src="https://github.com/theNatePi/PomodoroTimer/assets/78774649/0c836da7-71a5-4d83-82a6-0b979c7aee93">
+
 # Installing The Extension
 
 To use in a Chrome Extension, put all of the files here in a folder. In Google Chrome, go to chrome://extensions/. Turn on "Developer Mode" at the top right. Select "Load Unpacked" and select the folder. The extension will then be available to use on a page. When on a page, go to the extension button at the top to find the timer. 
